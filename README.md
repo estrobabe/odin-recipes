@@ -2,7 +2,7 @@
 
 <h1>Odin Recipes</h1>
 
-<p> This is the first project of the The Odin Project where I have created a simple recipe page in HTML.</p>
+<p> This is the first project from The Odin Project where I have created a simple recipe page in HTML.</p>
 
 <h3>References</h3>
 
